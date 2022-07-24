@@ -2,7 +2,7 @@
 discord_token: not-my-token
 dall_e_generated_folder: "generated"
 bot_prefix: "!"
-embed_title: "DALL·E mini"
+embed_title: "Beat Bot"
 embed_color: 0x00ff00
 
 # Embed
